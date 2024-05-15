@@ -69,7 +69,7 @@ export default function Home() {
           <br></br>
           <br></br>
           <p className="m-0 max-w-[30ch] text-sm opacity-75 text-green-400">
-            expected to work well like: https://randoms<span className="font-black">-3000</span>.euw.devtunnels.ms/login
+            expected: https://randoms<span className="font-black">-3000</span>.euw.devtunnels.ms/login
           </p>
           <br></br>
           <br></br>
@@ -96,7 +96,7 @@ export default function Home() {
           <br></br>
           <br></br>
           <p className="m-0 max-w-[30ch] text-sm opacity-75 text-green-400">
-            expected to work well like: https://randoms<span className="font-black">-3000</span>.euw.devtunnels.ms/login
+            expected: https://randoms<span className="font-black">-3000</span>.euw.devtunnels.ms/login
           </p>
           <br></br>
           <br></br>
